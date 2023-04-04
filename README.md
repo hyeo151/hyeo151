@@ -1,5 +1,5 @@
 <!-- Banner 20232A -->
-![Banner-dark-mode](Banner.jpg)
+![Banner-dark-mode](assets/Banner.jpg)
 
 
 
@@ -11,7 +11,7 @@ I'm a programmer with a passion for web programming. My goal is to develop scala
 
 <br>
 
-<img align="right" alt="GIF" src="dance-dancing-duck.gif" width="360px"/>
+<img align="right" alt="GIF" src="assets/dance-dancing-duck.gif" width="360px"/>
 
 
 
