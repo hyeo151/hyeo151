@@ -11,7 +11,7 @@ I'm a programmer with a passion for web programming. My goal is to develop scala
 
 <br>
 
-<img align="right" alt="GIF" src="assets/dance-dancing-duck_2.gif" width="200px"/>
+<img align="right" alt="GIF" src="assets/dance-dancing-duck_2.gif" width="300px"/>
 
 
 
