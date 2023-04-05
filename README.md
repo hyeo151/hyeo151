@@ -1,7 +1,3 @@
-<audio controls autoplay muted>
-  <source src="assets/Jam.mp3" type="audio/mpeg">
-</audio>
-
 <!-- Banner 20232A -->
 ![Banner-dark-mode](assets/Banner.jpg)
 
