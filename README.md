@@ -1,4 +1,4 @@
-<audio controls autoplay>
+<audio controls autoplay muted>
   <source src="assets/Jam.mp3" type="audio/mpeg">
 </audio>
 
