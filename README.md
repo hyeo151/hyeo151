@@ -1,5 +1,3 @@
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://www.youtube.com/watch?v=DSzydFSLWv0"></iframe>
-
 <!-- Banner 20232A -->
 ![Banner-dark-mode](assets/Banner.jpg)
 
@@ -95,7 +93,8 @@ I'm a programmer with a passion for web programming. My goal is to develop scala
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)&nbsp;
 </details>
 
 </div>
